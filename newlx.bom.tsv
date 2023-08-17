@@ -1,0 +1,31 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 1 x 0.75 mm²	1	m	W22
+2	Cable, 1 x 1.5 mm²	31	m	W12, W15, W16, W17, W18, W19, W21, W23, W24, W25, W26, W27, W28, W30, W31, W32, W33, W37, W38, W39, W40, W43, W52, W53, W54, W55, W56, W57, W58, W59, W60
+3	Cable, 1 x 16 mm²	5.1	m	W3, W47, W48, W6, W7
+4	Cable, 1 x 4 mm²	2.3	m	W10, W13, W14, W8, W9
+5	Cable, 2 x 1.5 mm²	8	m	W11, W29, W34, W35, W36, W41, W42
+6	Cable, 2 x 16 mm²	6	m	W44, W45, W46, W49, W50, W51
+7	Cable, 3 x 1.5 mm²	1	m	W20
+8	Cable, 3 x 16 mm²	0.6	m	W5
+9	Cable, 7 x 16 mm²	0.6	m	W4
+10	Connector, 3PIN, Male, 3 pins	1		Throttle
+11	Connector, 40-90V, Unit, 28 pins	1		Motor controller
+12	Connector, Battery+BMS, MALE, 4 pins	3		Battery1, Battery2, Battery3
+13	Connector, Bolt, HV Line, 2 pins	1		FuseHV1
+14	Connector, DC, 900VDC 200A continuous, 4 pins	1		Contactor
+15	Connector, PCB board, ESP32, 20 pins	1		VCU
+16	Connector, PMSM, unit, 10 pins	1		Motor
+17	Connector, SPST, Bolt chassis, 4 pins	1		Precharge Relay
+18	Connector, Unit, FEMALE MALE, 4 pins	1		DC-DC converter
+19	Connector, precharge 25ohm, Bolt chassis, 2 pins	1		Resistor
+20	Connector, simple, Electrical, 4 pins	1		Ksi relay
+21	Connector, simple, Lights, 2 pins	4		Left Indicator_Back, Left Indicator_Front, Right Indicator_Back, Right Indicator_Front
+22	Connector, simple, Lights, 3 pins	2		Headlight, Taillight
+23	Connector, simple, Mechanical, 2 pins	8		Headlight Fuse, Horn, Horn Switch, Left Brake, Lock and Key, Right Brake, Switch_Park, Switch_Reverse
+24	Connector, simple, Mechanical, 3 pins	3		Indicator Switch, Light HI_Lo Beam Switch, Switch1_Precharge_Contactor
+25	Connector, simple, Mechanical, 4 pins	4		Headlight HB relay, Headlight LB relay, Horn Relay, Taillight relay
+26	Connector, simple, Mechanical, 6 pins	1		Mode Switch
+27	Connector, simple, Module, 1 pins	1		ESP32
+28	Connector, simple, Module, 3 pins	1		Raspberry pi
+29	Connector, simple, PCB board, 4 pins	1		12V to 5V converter Board
+30	Connector, simple, Splice, 2 pins	2		CAN Splice Point, HV Splice Point

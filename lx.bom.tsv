@@ -1,0 +1,36 @@
+Id	Description	Qty	Unit	Designators
+1	Cable, 1 x 0.75 mm²	17	m	W22, W65, W66, W67, W68, W69, W70, W71, W72, W73, W74, W75, W76, W77, W78, W79, W80
+2	Cable, 1 x 1.5 mm²	34	m	W12, W15, W16, W17, W18, W19, W21, W23, W24, W25, W26, W27, W28, W30, W31, W32, W33, W37, W38, W39, W40, W43, W52, W53, W54, W55, W56, W57, W58, W59, W60, W62, W63, W64
+3	Cable, 1 x 16 mm²	3.1	m	W47, W48, W6, W7
+4	Cable, 1 x 4 mm²	2.3	m	W10, W13, W14, W8, W9
+5	Cable, 2 x 1.5 mm²	8	m	W11, W29, W34, W35, W36, W41, W42
+6	Cable, 2 x 16 mm²	6	m	W44, W45, W46, W49, W50, W51
+7	Cable, 3 x 1.5 mm²	1	m	W20
+8	Cable, 3 x 16 mm²	0.6	m	W5
+9	Cable, 7 x 16 mm²	0.6	m	W4
+10	Connector, 3PIN, Male, 3 pins	1		Throttle
+11	Connector, 40-90V, Unit, 23 pins	1		Motor controller
+12	Connector, 40-90V, Unit, 5 pins	1		Motor Controller HV Connector
+13	Connector, 48-57V, Unit, 3 pins	1		Motor HV Connector
+14	Connector, Battery+BMS, MALE, 4 pins	3		Battery1, Battery2, Battery3
+15	Connector, Bolt, HV Line, 2 pins	1		FuseHV1
+16	Connector, DC, 900VDC 200A continuous, 4 pins	1		Contactor
+17	Connector, PCB board, ESP32, 20 pins	1		VCU
+18	Connector, PMSM, unit, 7 pins	1		Motor
+19	Connector, SPST, Bolt chassis, 4 pins	1		Precharge Relay
+20	Connector, Unit, FEMALE MALE, 4 pins	1		DC-DC converter
+21	Connector, precharge 25ohm, Bolt chassis, 2 pins	1		Resistor
+22	Connector, simple, Electrical, 4 pins	1		Aux relay
+23	Connector, simple, Female, 2 pins	5		Boot Connector, Horn Connector, Ignition Connector, License Plate Lamp, Reverse Connector
+24	Connector, simple, Female, 3 pins	2		KSI Splice Point, Mode Connector
+25	Connector, simple, Lights, 2 pins	1		Back Indicator Mid Connector
+26	Connector, simple, Lights, 3 pins	3		Headlight, Indicator Switch, Taillight
+27	Connector, simple, Male, 2 pins	4		Indicator Light Connector Left back, Indicator Light Connector Left front, Indicator Light Connector Right back, Indicator Light Connector Right front
+28	Connector, simple, Mechanical, 2 pins	9		Horn, Horn Switch, Indicator Fuse, Left Brake, Light HI_Lo Beam Switch, Lock and Key, Right Brake, Switch_Park, Switch_Reverse
+29	Connector, simple, Mechanical, 3 pins	2		Mode Switch, Switch1_Precharge_Contactor
+30	Connector, simple, Mechanical, 4 pins	3		Headlight HB relay, Headlight LB relay, Horn Relay
+31	Connector, simple, Module, 1 pins	1		ESP32
+32	Connector, simple, Module, 2 pins	1		Indicator Flasher
+33	Connector, simple, Module, 3 pins	1		Raspberry pi
+34	Connector, simple, PCB board, 4 pins	1		12V to 5V converter Board
+35	Connector, simple, Splice, 2 pins	2		CAN Splice Point, HV Splice Point
